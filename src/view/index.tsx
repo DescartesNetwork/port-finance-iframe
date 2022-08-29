@@ -10,8 +10,8 @@ const View = () => {
   return (
     <EmbededView
       appId={appId}
-      src={'https://sentre.io/'}
-      title="Please replace the src and title to your original DApp."
+      src={'https://mainnet.port.finance'}
+      title="The First Non-Custodial Liquidity Protocol On Solana"
       wallet={window.sentre.wallet}
     />
   )

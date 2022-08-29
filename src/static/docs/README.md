@@ -1,3 +1,3 @@
-# My App
+# The First Non-Custodial Liquidity Protocol On Solana
 
-A sample project for Sentre developers
+A suite of money market products built on Solana
